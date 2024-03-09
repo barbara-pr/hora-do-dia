@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color: lightgray;
+}
+
+section{
+    background-color: white;
+   
+    width: 30vw;
+    height: 35vh;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.671);
+}
+
+#fotos{
+    width: 26vh;
+    height: 25vh;
+    transform: translate(70%, 5%);
+}
